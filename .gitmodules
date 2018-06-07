@@ -1,0 +1,24 @@
+[submodule "convex_adversarial"]
+	path = convex_adversarial
+	url = https://github.com/locuslab/convex_adversarial.git
+[submodule "EvadeML-Zoo"]
+	path = EvadeML-Zoo
+	url = https://github.com/mzweilin/EvadeML-Zoo.git
+[submodule "MagNet"]
+	path = MagNet
+	url = https://github.com/Trevillie/MagNet.git
+[submodule "cifar10_challenge"]
+	path = cifar10_challenge
+	url = https://github.com/MadryLab/cifar10_challenge.git
+[submodule "mnist_challenge"]
+	path = mnist_challenge
+	url = https://github.com/MadryLab/mnist_challenge.git
+[submodule "AutoZOOM"]
+	path = AutoZOOM
+	url = https://github.com/chunchentu/AutoZOOM.git
+[submodule "ZOO-Attack"]
+	path = ZOO-Attack
+	url = https://github.com/huanzhang12/ZOO-Attack.git
+[submodule "CLEVER"]
+	path = CLEVER
+	url = https://github.com/huanzhang12/CLEVER.git
